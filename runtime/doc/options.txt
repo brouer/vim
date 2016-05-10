@@ -3635,9 +3635,9 @@ A jump table for the options with a short description can be found at |Q_op|.
 		      SYMBOL, THAI, TURKISH, VIETNAMESE ANSI and BALTIC.
 		      Normally you would use "cDEFAULT".
 		qXX - quality XX.  Valid quality names are: PROOF, DRAFT,
-		      ANTIALIASED, UNANTIALIASED, CLEARTYPE, DEFAULT.
+		      ANTIALIASED, NONANTIALIASED, CLEARTYPE, DEFAULT.
 		      Normally you would use "qDEFAULT".
-		      Some quality values isn't supported in legacy OSs.
+		      Some quality values aren't supported on legacy OSs.
 
 	  Use a ':' to separate the options.
 	- A '_' can be used in the place of a space, so you don't need to use
