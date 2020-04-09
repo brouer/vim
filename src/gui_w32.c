@@ -435,6 +435,7 @@ static struct
     {VK_F23,		'F', 'D'},
     {VK_F24,		'F', 'E'},	// winuser.h defines up to F24
 
+    {VK_APPS,		'k', 'a'},
     {VK_HELP,		'%', '1'},
     {VK_BACK,		'k', 'b'},
     {VK_INSERT,		'k', 'I'},

@@ -2398,6 +2398,7 @@ static struct key_name_entry
     {K_XF3,		(char_u *)"xF3"},
     {K_XF4,		(char_u *)"xF4"},
 
+    {K_APPS,		(char_u *)"Apps"},
     {K_HELP,		(char_u *)"Help"},
     {K_UNDO,		(char_u *)"Undo"},
     {K_INS,		(char_u *)"Insert"},

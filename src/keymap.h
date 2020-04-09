@@ -372,6 +372,7 @@ enum key_extra
 #define K_S_F12		TERMCAP2KEY(KS_EXTRA, KE_S_F12)
 // K_S_F13 to K_S_F37  are currently not used
 
+#define K_APPS		TERMCAP2KEY('k', 'a')
 #define K_HELP		TERMCAP2KEY('%', '1')
 #define K_UNDO		TERMCAP2KEY('&', '8')
 
